@@ -1,1 +1,5 @@
-![Alter text](https://pbs.twimg.com/profile_banners/2538067169/1474792668/1500x500)
+![header](./assets/img/header.jpg)
+
+Hi. I'm Mab. I am a Software Engineer from Cambodia 🇰🇭.
+
+I work at [Asorasoft Technology](http://asorasoft.com) as Web Developer. For more information about me, check out [helmab.info](https://helmab.info).
