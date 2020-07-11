@@ -1,4 +1,4 @@
-![header](./assets/img/header.jpg)
+![header](https://raw.githubusercontent.com/HELMAB/HELMAB/master/assets/img/header.jpg)
 
 Hi. I'm Mab. I am a Software Engineer from Cambodia 🇰🇭.
 
