@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/HELMAB/HELMAB/master/assets/img/header.jpg)
 
-#![](https://komarev.com/ghpvc/?username=HELMAB)
+--![](https://komarev.com/ghpvc/?username=HELMAB)
 
 Hi. I'm Mab. I am a Software Engineer from Cambodia 🇰🇭.
 
