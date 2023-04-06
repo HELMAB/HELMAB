@@ -2,4 +2,4 @@
 
 Hi. I'm Mab. I am a Software Engineer from Cambodia 🇰🇭.
 
-I work at [Asorasoft](https://asorasoft.com) as Web Developer. For more information about me, check out [helmab.info](https://helmab.info).
+I work at [Beniten Co., LTD](https://beniten.com) as Server Side Developer. For more information about me, check out [helmab.info](https://helmab.info).
