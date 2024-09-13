@@ -2,4 +2,4 @@
 
 Hi. I'm Mab. I am a Software Engineer from Cambodia 🇰🇭.
 
-I work at [BENITEN Co., Ltd](https://beniten.com) as Server Side Developer. For more information about me, check out [helmab.netlify.app](https://helmab.netlify.app).
+I work at [BENITEN Co., Ltd](https://beniten.com) as Server Side Developer. For more information about me, check out [helmab.com](https://helmab.com).
