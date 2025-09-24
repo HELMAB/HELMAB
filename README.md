@@ -47,25 +47,6 @@ I'm a passionate Software Engineer specializing in web development with expertis
 - 🔒 **Security Best Practices**: Implementing secure coding standards and authentication systems
 - 📋 **Agile Development**: Experienced with Scrum, Kanban, and collaborative development workflows
 
-## 🌟 Interests & Focus Areas
-
-```javascript
-const developer = {
-    name: "Mab",
-    location: "Cambodia 🇰🇭",
-    currentRole: "Server Side Developer",
-    specialties: [
-        "Web Development",
-        "Mobile App Development",
-        "API Design",
-        "Database Architecture",
-        "System Integration"
-    ],
-    currentlyLearning: ["Cloud Computing", "Microservices", "AI/ML Integration"],
-    hobbies: ["Open Source Contribution", "Tech Blogging", "Problem Solving"]
-};
-```
-
 ## 💼 Professional Experience
 
 - 🏢 **Server Side Developer** at [BENITEN Co., Ltd](https://beniten.com)
