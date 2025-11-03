@@ -8,7 +8,7 @@ I'm a passionate Software Engineer specializing in web development with expertis
 
 🌐 **Portfolio:** [helmab.netlify.app](https://helmab.netlify.app)
 
-## 🚀 Skills & Technologies
+<!-- ## 🚀 Skills & Technologies
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -61,4 +61,4 @@ I'm a passionate Software Engineer specializing in web development with expertis
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@helmab.com)
 
 ---
-⭐️ From [HELMAB](https://github.com/HELMAB)
+⭐️ From [HELMAB](https://github.com/HELMAB) -->
