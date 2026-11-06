@@ -12,7 +12,7 @@ We stand in solidarity with our brave soldiers defending Cambodia's sovereignty 
 
 ---
 
-![header](https://raw.githubusercontent.com/HELMAB/HELMAB/master/assets/img/header.jpg)
+![header](https://raw.githubusercontent.com/HELMAB/HELMAB/master/assets/img/header.png)
 
 # 👋 Hello, I'm Mab!
 
