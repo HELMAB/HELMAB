@@ -16,7 +16,7 @@ We stand in solidarity with our brave soldiers defending Cambodia's sovereignty 
 
 # 👋 Hello, I'm Mab!
 
-**Professional Web Developer | Full-Stack Engineer | Cambodia 🇰🇭**
+**Full Stack Developer | Cambodia 🇰🇭**
 
 I'm a passionate Software Engineer specializing in web development with expertise in both frontend and backend technologies. Currently working as a Server Side Developer at [BENITEN Co., Ltd](https://beniten.com), where I build scalable web applications and robust server infrastructure.
 
